@@ -1,0 +1,19 @@
+{
+  "name": "@grishonnganga/create-react-wordpress-plugin",
+  "version": "0.1.0",
+  "description": "Plugin scaffolding for building wordpress plugins with React and TailwindCSS",
+  "main": "index.js",
+  "bin": {
+    "create-react-wordpress-plugin": "./bin/create-react-wordpress-plugin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "mustache": "^4.2.0"
+  }
+}
