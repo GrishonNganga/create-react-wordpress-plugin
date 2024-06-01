@@ -1,6 +1,6 @@
 {
   "name": "@grishonnganga/create-react-wordpress-plugin",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Plugin scaffolding for building wordpress plugins with React and TailwindCSS",
   "main": "index.js",
   "bin": {
