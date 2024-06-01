@@ -7,7 +7,7 @@ Running the Command
 To generate a new project, run:
 
 ```sh
-npx create-react-wordpress-plugin
+npx @grishonnganga/create-react-wordpress-plugin
 ```
 ## Running the App
 After generating the project, follow these steps to run the plugin:
@@ -49,7 +49,7 @@ The command will prompt you for the following details:
 
 ### Example
 ```sh
-npx create-react-wordpress-plugin
+npx @grishonnganga/create-react-wordpress-plugin
 ```
 #### Prompts:
 
